@@ -1,0 +1,37 @@
+.app
+{
+  padding: 10%;
+}
+
+input
+{
+  border: none;
+  font-size: small;
+  padding: 10px;
+  margin: 6px;
+  border-radius: 10px;
+  width: 30%;
+}
+
+input:focus
+{
+  text-decoration: none;
+}
+
+.input2
+{
+  width: 90%;
+  height: 60px;
+}
+
+.data
+{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+h5
+{
+  margin: 5px;
+}
